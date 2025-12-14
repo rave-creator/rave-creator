@@ -36,7 +36,6 @@ class RaveSec:
         self.username = "rave-creator"
         self.discord = "rave.sec"
         self.role = "Full-Stack Dev"
-        self.location = "🇫🇷 Cambrai, France"
         self.setup = {
             "os": ["🐧 Linux", "💠 Windows 11 Pro"],
             "editor": "VS Code + Vim",
