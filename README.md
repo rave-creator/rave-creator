@@ -166,7 +166,7 @@ class RaveSec:
 
 <div align="center">
 
-[![Website Downloader](https://github-readme-stats.vercel.app/api/pin/?username=rave-creator&repo=Your-Website-Downloader&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9)](https://github.com/rave-creator/Your-Website-Downloader)
+[![Website Downloader](https://github-readme-stats.vercel.app/api/pin/?username=rave-creator&repo=Website-Downloader&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9)](https://github.com/rave-creator/Website-Downloader)
 
 **🌐 Website Downloader**
 
@@ -267,7 +267,7 @@ Stay tuned for innovative security tools, web apps, and automation scripts!
 <td align="center" width="33%">
 
 ### 💬 Discord
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&borderRadius=10px&animated=true" />
+<img src="https://lanyard.cnrad.dev/api/1442924037830611015?theme=dark&bg=0d1117&borderRadius=10px&animated=true" />
 
 **rave.sec**
 
@@ -276,7 +276,7 @@ Stay tuned for innovative security tools, web apps, and automation scripts!
 
 ### 📧 Email
 <br>
-<img src="https://img.shields.io/badge/Contact-rave@proton.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" />
+<img src="https://img.shields.io/badge/osint463@gmail.com-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" />
 <br><br>
 Open for collaborations!
 
@@ -287,8 +287,6 @@ Open for collaborations!
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rave-creator)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rave_sec)
 
 </td>
 </tr>
@@ -307,7 +305,7 @@ Open for collaborations!
 ║  🎯 Mission: Building innovative security tools           ║
 ║  📚 Learning: Advanced Python & Pentesting Techniques     ║
 ║  🔨 Working: Open Source Projects & Community Building    ║
-║  💡 Goal: Make the web safer, one line of code at a time ║
+║  💡 Goal: Make the web safer, one line of code at a time  ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
