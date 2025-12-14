@@ -1,120 +1,92 @@
 <div align="center">
 
-# 👋 Hey, I'm Rave.Sec
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAVE.SEC&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Code%20%7C%20Security%20%7C%20Innovation&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%92%BB;Security+Enthusiast+%F0%9F%94%90;Open+Source+Contributor+%E2%9C%A8;Linux+%26+Windows+Power+User+%F0%9F%90%A7" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+### 👨‍💻 Full-Stack Developer & Security Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Securing+the+web%2C+breaking+the+limits+%F0%9F%94%90;Open+source+contributor+%E2%9C%A8;Linux+%26+Windows+power+user+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-rave.sec-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rave--creator-181717?style=flat-square&logo=github)](https://github.com/rave-creator)
-[![Profile Views](https://komarev.com/ghpvc/?username=rave-creator&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/rave-creator)
+[![Discord](https://img.shields.io/badge/rave.sec-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/rave--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rave-creator)
+[![Views](https://komarev.com/ghpvc/?username=rave-creator&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rave-creator)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+
+## 🎯 WHO AM I?
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 ```python
-class Developer:
+class RaveSec:
     def __init__(self):
-        self.name = "Rave"
         self.username = "rave-creator"
         self.discord = "rave.sec"
-        self.platforms = ["Linux 🐧", "Windows 11 Pro 💠"]
-        
-    def get_skills(self):
+        self.role = "Full-Stack Dev"
+        self.location = "🇫🇷 Cambrai, France"
+        self.setup = {
+            "os": ["🐧 Linux", "💠 Windows 11 Pro"],
+            "editor": "VS Code + Vim",
+            "terminal": "Zsh + Oh-My-Zsh",
+            "browser": "Firefox Dev Edition"
+        }
+    
+    def current_status(self):
         return {
-            "languages": ["Python", "JavaScript", "Java", "HTML", "CSS"],
-            "interests": ["Web Development", "Security", "Automation"],
-            "learning": ["Advanced Security", "Cloud Computing"],
-            "hobbies": ["Coding", "CTF Challenges", "Open Source"]
+            "coding": "24/7 Mode Activated 🔥",
+            "learning": "Advanced Security",
+            "working_on": "Epic Projects",
+            "vibe": "Chill but Productive 😎"
         }
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### ⚡ Quick Facts
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
+- 🔭 Currently working on **security tools**
+- 🌱 Learning **advanced pentesting**
+- 💬 Ask me about **Python, Web Dev, Security**
+- 🎮 Fun fact: **I code better at night**
+- ☕ Powered by **coffee and ambition**
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rave-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rave-creator&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rave-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rave-creator&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 🔥 Featured Projects
-
 <div align="center">
 
-[![Your Website Downloader](https://github-readme-stats.vercel.app/api/pin/?username=rave-creator&repo=Website-Downloader&theme=tokyonight&hide_border=true)](https://github.com/rave-creator/Website-Downloader)
+## 🛠️ TECH ARSENAL
 
-</div>
+### 💻 Languages & Frameworks
 
-> 🌐 **Website Downloader** - Un outil puissant pour cloner et archiver des sites web avec détection automatique de la stack technique.
+<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,nodejs,flask,express,tailwind&theme=dark" />
 
----
+### 🔧 Tools & Technologies  
 
-## 📈 Activity Graph
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,bash,vim,docker,nginx,mongodb&theme=dark" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rave-creator&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
+### 🗄️ Databases & More
 
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-rave.sec-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rave--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rave-creator)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rave.dev)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,redis,firebase,postman,figma&theme=dark" />
 
 </div>
 
@@ -122,10 +94,12 @@ class Developer:
 
 <div align="center">
 
-### 💻 Operating Systems
+## 📊 GITHUB ANALYTICS
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rave-creator&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=8B5CF6" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rave-creator&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=6366F1&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=9CA3AF" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rave-creator&theme=high-contrast&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=C9D1D9&area=true&area_color=6366F1" />
 
 </div>
 
@@ -133,14 +107,210 @@ class Developer:
 
 <div align="center">
 
-### 🎯 Current Focus
+## 🏅 ACHIEVEMENTS & BADGES
 
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔥_Code_Streak-365+_Days-orange?style=for-the-badge" />
+<br><sub><b>Daily Coder</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⭐_Open_Source-50+_Contributions-brightgreen?style=for-the-badge" />
+<br><sub><b>OSS Contributor</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎯_Projects-10+_Completed-blue?style=for-the-badge" />
+<br><sub><b>Project Master</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚀_Innovation-Expert_Level-red?style=for-the-badge" />
+<br><sub><b>Tech Innovator</b></sub>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🐧_Linux-Power_User-yellow?style=for-the-badge" />
+<br><sub><b>Terminal Wizard</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔐_Security-Researcher-purple?style=for-the-badge" />
+<br><sub><b>White Hat</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💡_Problem_Solver-Expert-teal?style=for-the-badge" />
+<br><sub><b>Debug Master</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/☕_Coffee_Addict-Level_100-brown?style=for-the-badge" />
+<br><sub><b>Caffeine Powered</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 FEATURED PROJECTS
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+<div align="center">
+
+[![Website Downloader](https://github-readme-stats.vercel.app/api/pin/?username=rave-creator&repo=Your-Website-Downloader&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9)](https://github.com/rave-creator/Your-Website-Downloader)
+
+**🌐 Website Downloader**
+
+Advanced web scraping tool with auto-detection of CMS & frameworks. Built with Python.
+
+`Python` `Web Scraping` `Automation`
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rave-creator&repo=rave-creator&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" />
+
+**✨ More Projects Coming Soon**
+
+Stay tuned for innovative security tools, web apps, and automation scripts!
+
+`Innovation` `Open Source` `Security`
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💭 DEV WISDOM
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌍 LANGUAGES & CODING STATS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rave-creator&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=10" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rave-creator&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&layout=compact&custom_title=Coding%20Activity" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 MY CODING SETUP
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/OS-Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/OS-Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Terminal-Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Theme-Dracula-BD93F9?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Font-Fira_Code-4B32C3?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Music-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Fuel-Coffee-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 LET'S CONNECT
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💬 Discord
+<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&borderRadius=10px&animated=true" />
+
+**rave.sec**
+
+</td>
+<td align="center" width="33%">
+
+### 📧 Email
+<br>
+<img src="https://img.shields.io/badge/Contact-rave@proton.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" />
+<br><br>
+Open for collaborations!
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 Social
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rave-creator)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rave_sec)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 CURRENT MISSION
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║  🎯 Mission: Building innovative security tools           ║
+║  📚 Learning: Advanced Python & Pentesting Techniques     ║
+║  🔨 Working: Open Source Projects & Community Building    ║
+║  💡 Goal: Make the web safer, one line of code at a time ║
+╚═══════════════════════════════════════════════════════════╝
 ```
-📚 Learning: Advanced Python & Cybersecurity
-🔨 Working on: Open Source Projects & Security Tools
-💡 Interested in: Web3, Cloud Computing, DevSecOps
-🎮 Fun fact: I code better with music 🎵
-```
 
 </div>
 
@@ -148,12 +318,13 @@ class Developer:
 
 <div align="center">
 
-### ⚡ Quick Stats
+### 🌟 FUN STATS
 
-![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-informational?style=flat-square&color=6366f1)
-![](https://img.shields.io/badge/Passion-Security%20%26%20Automation-informational?style=flat-square&color=6366f1)
-![](https://img.shields.io/badge/Lives-France%20🇫🇷-informational?style=flat-square&color=6366f1)
-![](https://img.shields.io/badge/Speaks-French%20%26%20English-informational?style=flat-square&color=6366f1)
+![](https://img.shields.io/badge/Code_Lines_Written-500K+-8B5CF6?style=flat-square&labelColor=1a1b27)
+![](https://img.shields.io/badge/Coffee_Consumed-∞_Cups-6F4E37?style=flat-square&labelColor=1a1b27)
+![](https://img.shields.io/badge/Bugs_Fixed-1337+-00D26A?style=flat-square&labelColor=1a1b27)
+![](https://img.shields.io/badge/Projects_Completed-42+-FF6B6B?style=flat-square&labelColor=1a1b27)
+![](https://img.shields.io/badge/Commits_This_Year-2500+-4ECDC4?style=flat-square&labelColor=1a1b27)
 
 </div>
 
@@ -161,10 +332,16 @@ class Developer:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**⭐ If you like my projects, give them a star! ⭐**
+### 💜 Thanks for visiting! Star my repos if you like them! 💜
 
-*Built with 💜 by Rave.Sec*
+**"Code is poetry, security is art, and innovation is the masterpiece."**
+
+<sub>⚡ Powered by passion, coffee, and late-night coding sessions ⚡</sub>
+
+<br>
+
+![](https://img.shields.io/badge/Made_with-❤️_and_☕-8B5CF6?style=for-the-badge)
 
 </div>
