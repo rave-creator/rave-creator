@@ -22,7 +22,6 @@ class Developer:
         self.name = "Rave"
         self.username = "rave-creator"
         self.discord = "rave.sec"
-        self.location = "Cambrai, France 🇫🇷"
         self.platforms = ["Linux 🐧", "Windows 11 Pro 💠"]
         
     def get_skills(self):
